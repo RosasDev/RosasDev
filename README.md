@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Hello there, I'm Rosas ☕</h1>
+	<h1>Hello there, I'm RoseDev ☕</h1>
 </div>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7816fd84-9a68-4d4a-8014-87c7b063bf2c">

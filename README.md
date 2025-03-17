@@ -2,7 +2,8 @@
 	<h1>Hello there, I'm Rosas ☕</h1>
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4a347200-54c9-4d8a-9ed2-c1c1f0bb8a28">
+  <img src="https://github.com/user-attachments/assets/7816fd84-9a68-4d4a-8014-87c7b063bf2c">
+
 </div>
 
 ## About Me
